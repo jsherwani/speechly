@@ -1,6 +1,13 @@
 # Change Log - cra-template-speechly
 
-This log was last generated on Fri, 28 Jan 2022 11:38:16 GMT and should not be manually modified.
+This log was last generated on Mon, 28 Feb 2022 10:15:44 GMT and should not be manually modified.
+
+## 1.1.0
+Mon, 28 Feb 2022 10:15:44 GMT
+
+### Minor changes
+
+- Using IntroPopup instead of ErrorPanel
 
 ## 1.0.2
 Fri, 28 Jan 2022 11:38:16 GMT

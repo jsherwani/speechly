@@ -2,6 +2,18 @@
   "name": "cra-template-speechly",
   "entries": [
     {
+      "version": "1.1.0",
+      "tag": "cra-template-speechly_v1.1.0",
+      "date": "Mon, 28 Feb 2022 10:15:44 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Using IntroPopup instead of ErrorPanel"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.2",
       "tag": "cra-template-speechly_v1.0.2",
       "date": "Fri, 28 Jan 2022 11:38:16 GMT",
